@@ -192,6 +192,7 @@ section {
     align-items: center;
 }
 #logo-background {
+    max-width: 102%;
     background-color: var(--neutral1);
     border-radius: 5px;
 }
